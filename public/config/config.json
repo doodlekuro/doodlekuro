@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x69CB847d95c715Bb804265F2b3d485F29Fcd6337",
+  "SCAN_LINK": "https://polygonscan.com/address/0x69cb847d95c715bb804265f2b3d485f29fcd6337",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Doodle Kuro",
+  "SYMBOL": "DK",
+  "MAX_SUPPLY": 5100,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/doodle-kuro",
+  "SHOW_BACKGROUND": true
+}
